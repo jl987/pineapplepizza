@@ -1,0 +1,427 @@
+body{
+    background-color: antiquewhite; 
+    background-image: src;
+    font-family: "niveau-grotesk", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-family: "niveau-grotesk", sans-serif;
+    
+
+}
+
+
+
+/* start of first page */
+.intro-page{
+    margin-top:200px;
+    font-size:120px;
+    text-align: left;
+    margin-left:200px;
+    color:black;
+    overflow: hidden;
+    word-break:break-all;
+    
+}
+
+.intro-page2{
+    margin-top:500px;
+    font-size:100px;
+    text-align:left;
+}
+
+.button{
+    position: left;
+
+}
+
+
+
+
+.pineapplepizza {
+    width: 200px;
+    height: 200px;
+    background-image: url('../images/pineapplepizza.png');
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin: 10px;
+    margin-left: 625px;
+}
+
+.pineapplepizza1 {
+    width: 400px;
+    height: 400px; 
+    background-image: url('../images/pineapplepizza.png'); 
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom:1100px;
+    margin-left: 1100px;
+}
+
+.morepineapple{
+    width: 400px;
+    height: 400px; 
+
+}
+/* end of first page */
+
+
+/* start of second page code */
+ .sam img{
+    text-wrap:nowrap;
+    position:relative;
+    top:-150px;
+    width: 350px;
+    height: 450px; 
+    background-size:cover;
+    background-position: center;
+    margin-left: 1000px;
+    z-index:1;
+    transition: top 0.5s ease; 
+
+} 
+
+
+
+
+
+
+.history1{
+    padding:0 0 200px 0;
+    font-size: 40px;
+    padding-bottom: 800px;
+    font-size: 100px;
+    word-break:normal;
+
+}
+
+.history2{
+    font-size: 100px;
+    padding-bottom:500px;
+}
+
+.history3{
+    font-size: 60px;
+    padding-bottom:200px;
+}
+
+/* end of second page code */
+
+/* start of third page code */
+
+
+
+.firstp{
+    font-size: 100px;
+    padding-top:100px;
+    padding-bottom:900px;
+}
+
+.secondp{
+    font-size: 100px;
+    padding-bottom:300px;
+
+}
+
+.hover-animation1 {
+    font-size: 16px; /* Initial font size */
+    transition: font-size 1s ease; /* Transition property */
+    text-align:center;
+}
+
+.hover-animation1:hover {
+    font-size: 30px; /* Larger font size on hover */
+}
+
+.hover-animation2 {
+    font-size: 18px; /* Initial font size */
+    transition: font-size 2s ease; /* Transition property */
+    text-align:center;
+}
+
+.hover-animation2:hover {
+    font-size: 30px; /* Larger font size on hover */
+}
+
+.hover-animation3 {
+    font-size: 14px; /* Initial font size */
+    transition: font-size 1s ease; /* Transition property */
+    text-align:center;
+    padding-bottom:300px;
+}
+
+.hover-animation3:hover {
+    font-size:60px; /* Larger font size on hover */
+}
+
+
+
+
+
+.twitterimage img {
+    height:500px;
+    width:500px;
+    margin-left:500px;
+    padding-bottom: 200px;
+
+}
+
+.tf2image img{
+    height:500px;
+    width:500px;
+    margin-left:500px;
+    padding-bottom: 200px;
+
+}
+
+.peaza img{
+    height:300px;
+    width:400px;
+    margin-left:500px;
+
+}
+
+
+.drama4{
+    font-size:100px;
+    padding: 500px 0 50px 0;
+    text-align: left;
+}
+
+.drama5{
+    font-size:100px;
+    padding: auto;
+    text-align: left;
+
+}
+
+.drama6{
+    position:left;
+    padding: 100px 0 0 0;
+    font-size:60px;
+    padding: auto;
+    text-align: left;
+    padding-bottom:200px;
+}
+
+
+
+
+
+.mytake1{
+    padding: 0 0 50px 0;
+    font-size:100px;
+    padding: auto;
+    text-align: left;
+
+
+
+}
+
+
+
+
+.mytake2{
+    padding-top:300px;
+    font-size:100px;
+    padding: auto;
+    text-align: left;
+    
+}
+
+.mytake3{
+    padding-bottom:200px;
+    padding-top:500px;
+    font-size:100px;
+    padding: auto;
+    text-align: left;
+
+    
+}
+
+
+
+/* end of page four */
+
+/* start of page five */
+
+.health1{
+    padding-bottom:300px;
+    font-size:100px;
+    text-align: left;
+
+}
+
+.vitaminfruits img{
+    width:450px;
+    height:400px;
+    margin-left:1000px;
+    margin-top:600px;
+}
+
+.health2{
+    padding: 30px 0 60px 0;
+    font-size:80px;
+    padding: auto;
+    text-align: left;
+    
+}
+
+.health3{
+    font-size:100px;
+
+
+    margin-right:400px;
+
+    
+}
+
+.health4{
+    padding: 400px 0 10px 0;
+    font-size:80px;
+
+    text-align:left;
+ 
+    line-height: normal;
+
+
+
+}
+
+/* end of page5 */
+/* start of page6 */
+
+.ending1{
+    padding: 30px 0 60px 0;
+    font-size:100px;
+    padding: auto;
+    text-align: left;
+    
+}
+
+.ending2{
+    padding: 600px 0 60px 0;
+    font-size:80px;
+    padding: auto;
+    text-align: left;
+
+}
+
+.finale{
+    padding: 400px 0 50px 0;
+    font-size:60px;
+    padding: auto;
+    text-align: left;
+
+
+}
+
+
+
+.fate{
+    float: inherit;
+    padding:100px 0 0 0;
+    font-size:90px;
+}
+
+
+
+.move {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    z-index: 2;
+    cursor: grab;
+    }
+
+
+    .target1{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    }
+
+    .target2{
+        width: 200px;
+        height: 200px;
+        position: absolute;
+        top: 400px;
+        left: 600px;
+
+    }
+
+    
+        .finish1{
+        background: rgb(128, 128, 128);
+        }
+
+
+
+
+        #goHomeButton {
+           
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background-color: #FFD700; 
+            border: none;
+            color: #060505; 
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+            outline: none; 
+            position: left; 
+            bottom: 20px;
+            right: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); 
+            margin-right:1000px;
+        
+      
+            background-image: radial-gradient(circle at 50% 50%, #FFD700 40%, #F56C51 41%, #F56C51 45%, #FFD700 46%, #FFD700 54%, #F56C51 55%, #F56C51 59%, #FFD700 60%, #FFD700 100%);
+            background-size: 50%;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+
+
+
+
+
+
+
+
+.circular-button {
+
+    width: 80px;
+    height: 80px; 
+    line-height: 80px; 
+    border-radius: 50%; 
+    text-align: center; 
+    background-color: #f1e5a0; 
+    border-color: red;
+    color: rgb(0, 0, 0); 
+    text-decoration: none; 
+    border: none; 
+    cursor: pointer; 
+    outline: none; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); 
+    position:relative;
+}
+
+
+/* .back-button {
+    display: inline-block;
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 5px;
+    background-color: blue; 
+    color: white; 
+    cursor: pointer; 
+    font-size: 16px; 
+    text-decoration: none; 
+} */
